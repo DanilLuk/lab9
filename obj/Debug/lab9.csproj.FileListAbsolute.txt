@@ -1,0 +1,14 @@
+D:\HW\lab9\bin\Debug\lab9.exe.config
+D:\HW\lab9\bin\Debug\lab9.exe
+D:\HW\lab9\bin\Debug\lab9.pdb
+D:\HW\lab9\obj\Debug\lab9.csproj.AssemblyReference.cache
+D:\HW\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+D:\HW\lab9\obj\Debug\lab9.exe
+D:\HW\lab9\obj\Debug\lab9.pdb
+F:\Jigurda\lab9\bin\Debug\lab9.exe.config
+F:\Jigurda\lab9\bin\Debug\lab9.exe
+F:\Jigurda\lab9\bin\Debug\lab9.pdb
+F:\Jigurda\lab9\obj\Debug\lab9.csproj.AssemblyReference.cache
+F:\Jigurda\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+F:\Jigurda\lab9\obj\Debug\lab9.exe
+F:\Jigurda\lab9\obj\Debug\lab9.pdb
